@@ -18,7 +18,7 @@ I enjoy exploring how data-driven models and neural networks can help simulate a
 
 ### 🛠️ Tools & Technologies I Use
 * **Programming & ML:** Python, MATLAB, TensorFlow, Keras
-* **Simulation & Hardware:** KiCad, numerical solvers (GNLSE)
+* **Simulation & Hardware:** COMSOL, KiCad, numerical solvers (GNLSE)
 * **Documentation:** LaTeX (Overleaf), Git
 
 ---
